@@ -1,43 +1,59 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&letterSpacing=small&duration=1999&pause=1000&color=A96CFF&center=true&vCenter=true&repeat=true&width=1000&height=75&lines=Welcome+to+Lightning+Bounties!" alt="Typing SVG" /></a>
-    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; border: 2px solid #4285f4; padding: 20px; border-radius: 10px;">
+# ⚡ Lightning Bounties
 
-  <a href="https://https://x.com/LBounties" target="_blank">
-    <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" width="65" height="35" alt="X Badge">
-  </a> 
-  <a href="https://docs.lightningbounties.com" target="_blank">
-    <img src="https://img.shields.io/badge/Documentation-BBDDE5?logo=gitbook&logoColor=000&style=for-the-badge" height="35" alt="GitBook Badge">
-  </a>
-  <a href="https://app.lightningbounties.com" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="100" height="35" alt="website logo" />
-  </a>
-</div>
-</div>
-  <div align="center">
-  <a href="https://github.com/Lightning-Bounties">
-    <img src="public/lb_Logo_github2.png" alt="Logo" width="900" height="250">
-  </a>
-  </div>
+![GitHub stars](https://img.shields.io/github/stars/Lightning-Bounties/lb-next?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Lightning-Bounties/lb-next?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Lightning-Bounties/lb-next?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/Lightning-Bounties/lb-next?style=for-the-badge)
 
-## About
-In the current landscape, many open-source bug bounty platforms inadvertently shut out developers from regions outside the USA and EU, creating barriers to participation and diversity. To address this, Lightning Bounties is revolutionizing open-source development by integrating Bitcoin payments directly into GitHub. This approach aligns with the core principles of the open-source software and Bitcoin movements—decentralization, transparency, and inclusivity—by offering seamless and instantaneous financial rewards to developers globally. By leveraging the Bitcoin Lightning Network, Lightning Bounties ensures that contributions to open-source projects are directly rewarded, fostering a sustainable and thriving community where developers can easily receive compensation for their valuable work
+**GitHub's great. What if you could get paid on it?**
 
-## How to Contribute
+Lightning Bounties is a Bitcoin-powered bug bounty platform that seamlessly connects GitHub workflows with instant Bitcoin payments through the Lightning Network.
 
-1. **Find an open bounty** on our [bounty platform](https://app.lightningbounties.com) or in the [Issues tab](https://github.com/Lightning-Bounties/docs/issues).
-2. **Fork this repository** and create a new branch for your work.
-3. **Make your changes** and commit them with clear, concise commit messages.
-4. **Submit a Pull Request** with a detailed description of your changes.
-5. **Get paid in SATs** once your PR is reviewed and merged!
+## 🌐 Connect With Us
 
-***For a full guide on our contribution process,*** please check our [Contribution Guidelines](about-lb/contributing.md).
+[![Website](https://img.shields.io/badge/Website-lightningbounties.com-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.lightningbounties.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@LBounties-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LBounties)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lightning--Bounties-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/lightning-bounties)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lightningbounties)
+[![GitHub](https://img.shields.io/badge/GitHub-Lightning--Bounties-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lightning-Bounties)
+[![YouTube](https://img.shields.io/badge/YouTube-Lightning%20Bounties-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/lightningbounties)
+[![Documentation](https://img.shields.io/badge/Docs-Read%20More-green?style=for-the-badge&logo=gitbook&logoColor=white)](https://docs.lightningbounties.com)
+[![Blog](https://img.shields.io/badge/Blog-Latest%20Updates-orange?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.lightningbounties.com)
 
-## Why Contribute?
-  
-- **Earn Bitcoin**: Get paid in sats for your valuable contributions.
-- **Learn**: Dive deep into Open-Source, Bitcoin, & Lightning Network technologies and uncover the future of money and decentralized tech.
-- **Accelerate Bug Fixes**: Collaborate with talented security researchers to speed up bug fixes, saving newbie coders valuable time.
-- **Join the Community**: Become part of the vibrant Open-Source Movement and build the future you want to see.
+## 🚀 About Lightning Bounties
+
+In the current landscape, many open-source bug bounty platforms inadvertently shut out developers from regions outside the USA and EU, creating barriers to participation and diversity. Lightning Bounties is revolutionizing open-source development by integrating Bitcoin payments directly into GitHub workflows.
+
+Our platform empowers developers worldwide to earn Bitcoin for fixing bugs and contributing to open-source projects, while project maintainers gain access to global talent to solve their issues faster.
+
+Born at the MIT Bitcoin Hackathon in April 2024, Lightning Bounties aligns with the core principles of both open-source software and Bitcoin movements-decentralization, transparency, and inclusivity.
+
+### 🏆 Achievements
+- 1st Place at MIT Bitcoin Hackathon 2024
+- Selected for PlebLab's 2024 Startup Day Event
+- Recognized by Gitbook and Google Cloud for Open-Source Community Programs
+
+## ✨ Key Features
+
+| Feature | Description |
+|---------|-------------|
+| 🔄 **Native GitHub Integration** | Use familiar GitHub workflows without any changes to your existing setup |
+| ⚡ **Instant Bitcoin Payments** | Get paid immediately in Bitcoin when your contributions are accepted |
+| 🌍 **Global Accessibility** | No banking restrictions, available to developers worldwide |
+| 🔧 **No Setup Required** | No plugins or software installations needed, just log in with GitHub |
+| 👥 **Crowdfunding Support** | Multiple users can fund a single bounty with Bitcoin microtransactions |
+| 🔍 **Automated Validation** | Contributions are automatically validated through GitHub Actions |
+| 💰 **Support Any Project** | Post bounties on issues from any open-source project, even if you're not the owner |
+
+## 📋 Getting Started
+
+### Prerequisites
+- Node.js (v16+)
+- npm or yarn
+- A GitHub account
+- A Lightning wallet for receiving payments
+
+### Installation
 
 ## Getting Started
  
@@ -69,36 +85,86 @@ Below is an example of how you can instruct your audience on installing and sett
     - see documents for instructions and video [here](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-opensource-frontend-lb-next).
       
 
-## Top contributors: 
+## 🤝 How to Contribute
+
+1. **Find an open bounty** on our [bounty platform](https://www.lightningbounties.com) or in the Issues tab
+2. **Fork this repository** and create a new branch for your work
+3. **Make your changes** and commit them with clear, concise commit messages
+4. **Submit a Pull Request** with a detailed description of your changes
+5. **Get paid in SATs** once your PR is reviewed and merged!
+
+Please check our [Contribution Guidelines](CONTRIBUTING.md) for a full guide on our contribution process.
+
+## 💡 Why Contribute?
+
+- **Earn Bitcoin**: Get paid in sats for your valuable contributions
+- **Learn**: Dive deep into Open-Source, Bitcoin, & Lightning Network technologies
+- **Accelerate Bug Fixes**: Collaborate with talented developers to speed up issue resolution
+- **Join the Community**: Become part of a vibrant global movement building the future of open-source
+
+## 🌟 Success Stories
+
+Since our launch in April 2024, we've processed millions of sats in bounties and connected developers worldwide. Our platform demonstrates that Bitcoin isn't just a store of value-it's a powerful engine for recognizing and rewarding value creation in real-time.
+
+Lightning Bounties creates an ecosystem where:
+- Contribution is valued immediately and transparently
+- Open-source maintainers can sustain their work
+- The global developer community can participate regardless of geographic or financial barriers
+
+## 🤔 FAQ
+
+<details>
+<summary><b>How do I receive payments?</b></summary>
+You'll need a Lightning Network-compatible Bitcoin wallet. After your contribution is accepted, payments are sent instantly to your wallet.
+</details>
+
+<details>
+<summary><b>Do I need to pay fees to use Lightning Bounties?</b></summary>
+No! Lightning Bounties doesn't charge any platform fees. You only pay the minimal Lightning Network transaction fees.
+</details>
+
+<details>
+<summary><b>Can I post bounties for any GitHub issue?</b></summary>
+Yes! You can post bounties for issues in any public GitHub repository, even if you're not the project maintainer.
+</details>
+
+<details>
+<summary><b>How does verification work?</b></summary>
+We use GitHub Actions for automated verification of contributions, ensuring transparency and reliability.
+</details>
+
+## 👨‍💻 Top Contributors
+
+We appreciate all our contributors who make Lightning Bounties possible!
 
 <a href="https://github.com/Lightning-Bounties/lb-next/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Lightning-Bounties/lb-next" />
 </a>
 
 
-<div align="center">
-<h2><span> Special Thanks </span></h2>  
-</div>
+## 🙏 Special Thanks
+
+
 <div align="center">
 
-| <h3><a href="https://branta.pro">Branta</a></h3> | <h3><a href="https://www.gitbook.com">GitBook</a></h3> | <h3><a href="https://www.pleblab.dev/">PlebLab</h3> |
-|:-------:|:-------:|:--------------------:|
-| ![Branta Logo](https://pbs.twimg.com/profile_images/1730013699824332800/ZaGLT3-T_200x200.jpg) | ![Gitbook Logo](https://pbs.twimg.com/profile_images/1730174148289138688/F8UigNVy_200x200.jpg) | ![PlebLab Logo](https://avatars.githubusercontent.com/u/112909654?s=200&v=4) |
-| <p align="center" width="240">Branta offers payment verification <br>for various bitcoin and lightning technologies.</p> | <p align="center" width="240">GitBook: Documentation platform<br>for teams to share knowledge</p> | <p align="center" width="240">PlebLab is founder-led and founder-focused, <br>providing resources and mentorship to drive<br>impactful Bitcoin companies since 2021.</p> |
-</details>
+| <h3><a href="https://branta.pro">Branta</a></h3> | <h3><a href="https://www.gitbook.com">GitBook</a></h3> | <h3><a href="https://www.pleblab.dev/">PlebLab</a></h3> | <h3><a href="https://jumble.social">Jumble</a></h3> |
+|:-------:|:-------:|:--------------------:|:--------------------:|
+| <a href="https://branta.pro"><img src="https://pbs.twimg.com/profile_images/1730013699824332800/ZaGLT3-T_200x200.jpg" width="150" alt="Branta Logo"></a> | <a href="https://www.gitbook.com"><img src="https://pbs.twimg.com/profile_images/1730174148289138688/F8UigNVy_200x200.jpg" width="150" alt="Gitbook Logo"></a> | <a href="https://www.pleblab.dev/"><img src="https://avatars.githubusercontent.com/u/112909654?s=200&v=4" width="150" alt="PlebLab Logo"></a> | <a href="https://jumble.social"><img src="https://raw.githubusercontent.com/CodyTseng/jumble/46b9f5625b312eb4fb208c2edeb7ebecfd744010/resources/logo-dark.svg" width="150" alt="Jumble Logo"></a> |
+| <p align="start" width="240">Branta offers payment verification for various bitcoin and lightning technologies.</p> | <p align="start" width="240">Documentation platform for teams to share knowledge</p> | <p align="start" width="240">Founder-focused incubator, who provides resources and mentorship to drive impactful Bitcoin companies.</p> | <p align="start" width="240">Jumble is a user-friendly Nostr client focused on relay feed browsing and relay discovery.</p> |
+
 </div>
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+<img src="https://via.placeholder.com/150?text=⚡LB" alt="Lightning Bounties Logo" width="150" height="150">
 <br>
-<div align="center">
-  <p>
-    <a href="https://docs.lightningbounties.com"><strong>Explore the docs » </strong></a>
-  </>  ⚡
-    <a href="https://blog.lightningbounties.com/"><strong>Read Our Blog » </strong></a>
-  </p>
-  <p> 
-    <a href="https://docs.lightningbounties.com/docs/getting-started/getting-started">View Demo</a> »
-    <a href="https://app.lightningbounties.com"> Open Bounties</a> »
-    <a href="https://github.com/Lightning-Bounties/lb-next/issues">Report Bug</a> »
-    <a href="https://github.com/orgs/Lightning-Bounties/projects/2/views/1">Roadmap</a>
-  </p>
-
-</div>
+<i>Turning Bugs into Bitcoin, One Commit at a Time.</i>
+<br>
+<br>
+<a href="https://www.lightningbounties.com">www.lightningbounties.com</a>
+</p>
